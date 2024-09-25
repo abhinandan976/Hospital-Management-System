@@ -1,0 +1,10 @@
+Cardiology
+Orthopedics
+Neurology
+Dermatology
+Pediatrics
+Gastroenterology
+Ophthalmology
+Pulmonology
+Gynecology
+Oncology

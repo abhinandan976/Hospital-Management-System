@@ -1,0 +1,56 @@
+Cardiology
+Aspirin 50
+Beta_blockers 70
+ACE_inhibitors 65
+Statins 80
+Nitroglycerin 120
+-------------
+Orthopedics
+NSAIDs 100
+Analgesics 90
+Muscle_relaxants 75
+Corticosteroids 80
+---------------
+Neurology
+Anticonvulsants 60
+Analgesics 75
+Dopamine_agonists 95
+Antidepressants 65
+---------------
+Dermatology
+Topical_steroids 85
+Antibiotics 105
+Antifungal_medications 110
+Antihistamines 90
+--------------
+Pediatrics
+Pediatric_electrolyte_solutions 115
+Antibiotics 100
+Pediatric_pain_relievers 65
+Antipyretics 55
+------------
+Gastroenterology
+Proton_Pump_Inhibitors 150
+Antiemetics 130
+Laxatives 90
+Antacids 80
+--------
+Ophthalmology
+Artificial_tears 110
+Topical_antibiotics 135
+Glaucoma_medications 95
+Corticosteroids 75
+---------------
+Pulmonology
+Bronchodilators 45
+Inhaled_corticosteroids 100
+Oxygen_therapy 125
+--------------
+Gynecology
+Antibiotics 145
+Medications_for_reproductive_health 125
+Birth_control_medications 110
+-------------------------
+Oncology
+Chemotherapy_drugs 120
+Immunotherapy_drugs 130
