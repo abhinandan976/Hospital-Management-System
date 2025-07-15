@@ -54,4 +54,7 @@ Hospital-Management-System/
 ```bash
 gcc main.c -o hospital
 
+### Run the code
+./hospital
+
 ./hospital
