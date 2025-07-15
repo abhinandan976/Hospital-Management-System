@@ -1,4 +1,4 @@
-# 🏥 Hospital Management 
+# 🏥 Hospital Management System (C Language)
 
 ## 📑 Project Description
 This project simulates a **Hospital Management System** written in **C**. It integrates multiple concepts such as **Data Structures, Graph Algorithms (Dijkstra), Heaps, Linear Regression, Sorting, and Resource Management** to model the key components of a hospital, such as:
@@ -14,7 +14,6 @@ This project simulates a **Hospital Management System** written in **C**. It int
 ## 🏗️ Project Structure
 
 Hospital-Management-System/
-│
 
 ├── main.c # Main source code
 
