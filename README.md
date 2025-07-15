@@ -15,6 +15,7 @@ This project simulates a **Hospital Management System** written in **C**. It int
 
 Hospital-Management-System/
 │
+
 ├── main.c # Main source code
 
 ├── README.md # Project description (this file)
